@@ -1,4 +1,4 @@
-# Caesar-and-Hill-Algorithms-Implementations
+# Caesar-and-Hill-Algorithm-Implementations
 
 This is Desktop Application
 implementation of Caesar and Hill Algorithms to use in Encryption and Decryption.
